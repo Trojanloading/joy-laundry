@@ -55,7 +55,7 @@
             <label>撤销原因:</label>
             <el-input
               type="textarea"
-              placeholder="请输入退赔原因"
+              placeholder="请输入撤销原因"
               v-model="cancelOrderInformation.why"
               :autosize="{ minRows: 1, maxRows: 3 }"
               maxlength="100"
