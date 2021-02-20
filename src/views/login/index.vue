@@ -339,6 +339,7 @@ $cursor: #ccc;
         transition: all 0.6s ease-in-out;
         span {
           // color: #78a17b;
+          margin: 15px;
           color: #eee;
           margin: 15px;
         }
