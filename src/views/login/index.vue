@@ -340,6 +340,7 @@ $cursor: #ccc;
         span {
           // color: #78a17b;
           color: #eee;
+          margin: 15px;
         }
         i {
           font-size: 20px;
